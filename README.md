@@ -1,6 +1,4 @@
----
-title: 100 Days of Code - Fikri Mulyana
----
+
 
 # Hi! I'm Fikri, and I've joined the #100DaysOfCode Challenge
 From now, August 2nd, 2023 to the next 100 days later, i commit to consistently code without skipping any day. i will mainly focus on [freecodecamp course], [the odin project], [euler projects]. i will keep track of my progress each day through this journal.
