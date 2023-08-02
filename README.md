@@ -1,4 +1,5 @@
 # Hi! I'm Fikri, and I've joined the #100DaysOfCode Challenge
+From now, August 2nd, 2023 to the next 100 days later, i commit to consistently code without skipping any day. i will mainly focus on [freecodecamp course], [the odin project], [euler projects]. i will keep track of my progress each day through this journal.
 
 ## Contents
 
@@ -28,3 +29,9 @@ If you want to help by providing a translation of content/rules in the language 
 9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
+
+
+<!-- links -->
+[freecodecamp course]: https://www.freecodecamp.org/learn/
+[the odin project]: https://www.theodinproject.com/
+[euler projects]: https://projecteuler.net/
