@@ -10,7 +10,7 @@
 1. [notes day 1]
 2. [freecodecamp exercise](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-8)
 
-## Day 2 -  August 3, 2024
+### Day 2 -  August 3, 2024
 
 **Today's  Progress :** i am doing freecodecamp "*responsive web design*" ==learn typography by building nutrition label project== , step 5-31. 
 
