@@ -10,6 +10,7 @@
 1. [notes day 1]
 2. [freecodecamp exercise](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-8)
 
+
 ### Day 2 -  August 3, 2024
 
 **Today's  Progress :** i am doing freecodecamp "*responsive web design*" ==learn typography by building nutrition label project== , step 5-31. 
@@ -21,6 +22,20 @@
 2. [freecodecamp exercise](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-31)
 
 
+### Day 3 -  August 4, 2024
+
+**Today's  Progress :**  i am doing freecodecamp "*responsive web design*" learn typography by building nutrition label project , step 31-52. 
+
+**Thought :** learning about `rem` unit in CSS, `:not` pseudo-selector, 
+
+**Link to Work(s) :**
+1. [notes day 3]
+2. [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-53)
+
+
+
+
 <!-- notes link -->
 [notes day 1]: resources/day1.md
 [notes day 2]: resources/day2.md
+[notes day 3]: resources/day3.md
