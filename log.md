@@ -13,7 +13,7 @@
 
 ### Day 2 -  August 3, 2024
 
-**Today's  Progress :** i am doing freecodecamp "*responsive web design*" ==learn typography by building nutrition label project== , step 5-31. 
+**Today's  Progress :** i am doing freecodecamp "*responsive web design*" learn typography by building nutrition label project , step 5-31. 
 
 **Thought :** learning about font fallback, css box sizing, letter spacing. i think it is quite easy :)
 
