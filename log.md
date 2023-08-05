@@ -33,6 +33,18 @@
 2. [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-53)
 
 
+### Day 4 -  August 5, 2024
+
+**Today's  Progress :**  i am completing freecodecamp "*responsive web design*" learn typography by building nutrition label project , *yeay*. 
+
+**Thought :** 
+
+**Link to Work(s) :**
+1. [tweet](https://twitter.com/fikrimulyana_s/status/1687827984596762624)
+2. [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67)
+
+
+
 
 
 <!-- notes link -->
