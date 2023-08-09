@@ -44,6 +44,37 @@
 2. [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67)
 
 
+### Day 5 -  August 6, 2024
+
+**Today's  Progress :**  i've just configuring my new code editor - neovim. i learn so much about how to customize neovim using vim file. 
+
+**Thought :** - 
+
+**Link to Work(s) :**
+1. [neovim GUI configuration file](https://github.com/fikrinotes/Vim-Config/blob/main/ginit.vim)
+2. [neovim terminal configuration file](https://github.com/fikrinotes/Vim-Config/blob/main/init.vim)
+
+
+### Day 6 -  August 7, 2024
+
+**Today's  Progress :**  same as before, i've just configuring my new code editor - neovim. i learn so much about how to customize neovim using vim file. 
+
+**Thought :** i think it's enough to configure my neovim
+
+**Link to Work(s) :**
+1. [neovim GUI configuration file](https://github.com/fikrinotes/Vim-Config/blob/main/ginit.vim)
+2. [neovim terminal configuration file](https://github.com/fikrinotes/Vim-Config/blob/main/init.vim)
+
+
+### Day 7 -  August 9, 2024
+
+**Today's  Progress :**  i have completed freecodecamp nutrition label project and start working with freecodecamp quiz project up to step 3. 
+
+**Thought :** -
+
+**Link to Work(s) :**
+1. [freecodecamp nutrition label project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67)
+2. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-4)
 
 
 
