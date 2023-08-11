@@ -88,6 +88,19 @@
 2. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-4)
 
 
+### Day 9 - August 11, 2023
+
+**Today's  Progress :**  i am doing with freecodecamp quiz project step 12-21. 
+
+**Thought :** i learn about web accessibility. it cover some concept of html semantics, elements labelling, etc
+
+**Link to Work(s) :**
+1. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-21)
+
+
+
+
+
 
 <!-- notes link -->
 [notes day 1]: resources/day1.md
