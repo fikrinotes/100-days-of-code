@@ -117,4 +117,4 @@
 [notes day 2]: resources/day2.md
 [notes day 3]: resources/day3.md
 [notes day 8]: resources/day8.md
-[notes day 10]: resources/day10/md
+[notes day 10]: resources/day10.md
