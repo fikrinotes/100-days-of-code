@@ -98,6 +98,16 @@
 1. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-21)
 
 
+### Day 10 - August 12, 2023
+
+**Today's  Progress :**  i am doing with freecodecamp quiz project step 22-30. 
+
+**Thought :** 
+
+**Link to Work(s) :**
+1. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-30)
+2. [notes day 10]
+
 
 
 
@@ -107,3 +117,4 @@
 [notes day 2]: resources/day2.md
 [notes day 3]: resources/day3.md
 [notes day 8]: resources/day8.md
+[notes day 10]: resources/day10/md
