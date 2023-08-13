@@ -109,6 +109,16 @@
 2. [notes day 10]
 
 
+### Day 11 - August 13, 2023
+
+**Today's  Progress :**  i am doing with freecodecamp quiz project step 31-52. 
+
+**Thought :** 
+
+**Link to Work(s) :**
+1. [freecodecamp quiz project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-52)
+
+
 
 
 
