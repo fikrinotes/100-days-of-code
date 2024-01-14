@@ -1,7 +1,7 @@
 
 
 # Hi! I'm Fikri, and I've joined the #100DaysOfCode Challenge
-From now, August 2nd, 2023 to the next 100 days, i commit to consistently code without skipping any day. i will be focusing on [freecodecamp course], [the odin project], [euler projects], or learning Laravel. i will keep track of my progress each day through this journal.
+From now, January 14th, 2024 to the next 100 days, i commit to consistently code without skipping any day. i will be focusing on [freecodecamp course], [the odin project], [euler projects], or learning Laravel. i will keep track of my progress each day through this journal.
 
 ## My Targets
 - Fluent in PHP (using Laravel Framework)
