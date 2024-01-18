@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 14th, 2024
+### Day 1: January 18th, 2024
 
 **Today's Progress**: 
 
