@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 18th, 2024
+## Day 1: January 18th, 2024
 
-**Today's Progress**: 
+**Today's Progress :** working on freeCodeCamp Responsive Web Design curriculum and then learning the basics of laravel framework (view and layouts) :
 
-**Thoughts:**   
 
-**Link to Work(s):** 
-1. 
+**Link to Work(s) :** 
+- [Day 1](resources/day1.md)
 
