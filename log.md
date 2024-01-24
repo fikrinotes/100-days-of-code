@@ -8,3 +8,9 @@
 **Link to Work(s) :** 
 - [Day 1](resources/day1.md)
 
+## Day 2: January 24th, 2024
+
+**Today's Progress :** learn how to use mysql workbench, but still confuse because the mysql server couldn't connected
+
+
+**Link to Work(s) :**
