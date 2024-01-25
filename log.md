@@ -16,6 +16,6 @@
 
 ## Day 3: January 25th, 2024
 
-**Today's Progress :** learn about CSS grid in freecodecamp. i know the basics of using CSS grid, but hmm it looks like CSS flexbox is still better.
+**Today's Progress :** learn about CSS grid in freecodecamp. i know the basics of using CSS grid, but hmm it looks like CSS flexbox is still better. i've done the 41th step in freecodecamp resposive web design in CSS grid materials.
 
 **Link to Work(s) :**
