@@ -4,7 +4,6 @@
 
 **Today's Progress :** working on freeCodeCamp Responsive Web Design curriculum and then learning the basics of laravel framework (view and layouts) :
 
-
 **Link to Work(s) :** 
 - [Day 1](resources/day1.md)
 
@@ -12,5 +11,11 @@
 
 **Today's Progress :** learn how to use mysql workbench, but still confuse because the mysql server couldn't connected
 
+**Link to Work(s) :**
+
+
+## Day 3: January 25th, 2024
+
+**Today's Progress :** learn about CSS grid in freecodecamp. i know the basics of using CSS grid, but hmm it looks like CSS flexbox is still better.
 
 **Link to Work(s) :**
