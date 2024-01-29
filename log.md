@@ -12,4 +12,4 @@
 **Today's Progress :** Learn laravel - Learn about escape character and mass assignment in laravel
 
 **Link to Work(s) :** 
-1. [Notes](resources/laravel-mass-assignment.md)
+1. [Notes](resources/php-mass-assignment.md)
