@@ -7,3 +7,9 @@
 **Link to Work(s) :** 
 1. [Notes](resources/laravel-migration-eloquent.md)
 
+## Day 2: January 29th, 2024
+
+**Today's Progress :** Learn laravel - Learn about escape character and mass assignment in laravel
+
+**Link to Work(s) :** 
+1. [Notes](resources/laravel-mass-assignment.md)
