@@ -30,3 +30,10 @@
 
 **Link to Work(s) :** 
 - [Day 5](resources/day5.md)
+
+# Day 6: February 18, 2024
+
+**Today's Progress :** hmmm, there isn't something new. i just learn again about basics css like linear gradient, position, and z-index.
+
+**Link to Work(s) :** 
+- 
