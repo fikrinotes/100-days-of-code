@@ -36,4 +36,9 @@
 **Today's Progress :** hmmm, there isn't something new. i just learn again about basics css like linear gradient, position, and z-index.
 
 **Link to Work(s) :** 
-- 
+
+# Day 7: February 19, 2024
+
+**Today's Progress :** continue to work in the project for learning CSS transform in freeCodeCamp. i learn again some concepts like CSS variable.
+
+**Link to Work(s) :** 
