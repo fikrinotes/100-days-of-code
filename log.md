@@ -42,3 +42,15 @@
 **Today's Progress :** continue to work in the project for learning CSS transform in freeCodeCamp. i learn again some concepts like CSS variable.
 
 **Link to Work(s) :** 
+
+# Day 8 - 10 : February 20, 2024 - February 22, 2024
+**Today's Progress :**  nothing special. just review the concept of opacity, font, pseudo-selector, etc
+
+**Link to Work(s) :**
+
+# Day 11 : February 23, 2024
+**Today's Progress :**  Finished the "CSS animation by building a ferris wheel" project at freecodecamp and one final project for certification
+
+**Link to Work(s) :** 
+- https://www.freecodecamp.org/certification/fikrimulyana_s/responsive-web-design
+
