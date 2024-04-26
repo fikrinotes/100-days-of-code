@@ -1,6 +1,7 @@
-# Day 1: February 13, 2024
+## Day 1: April 26th, 2024
 
-**Today's Progress :** 
+**Today's Progress :** mempelajari tentang cara penggunaan font awesome dan bootstrap dalam pengembangan web. pada exercise yang sedang saya kerjakan, saya juga menerapkan *grid system* yang ada pada bootstrap untuk membuat web yang responsive. 
 
-**Link to Work(s) :** 
- - [Day 1](resources/day1.md)
+**Link to Work(s) :**
+- [Using FontAwesome]("resources/using-fa.md")
+- [Bootstrap's Grid System]("Bootstrap-grid.md")
