@@ -4,4 +4,4 @@
 
 **Link to Work(s) :**
 - [Using FontAwesome](./resources/using-fa.md)
-- [Bootstrap's Grid System](./resources/Bootstrap-grid.md)
+- [Bootstrap's Grid System](./resources/bootstrap-grid.md)
