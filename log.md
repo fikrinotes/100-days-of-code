@@ -10,4 +10,5 @@
 
 **Today's Progress :** saya telah menyelesaikan exercise Bootstrap di freecodecamp, dan sekarang sedang melanjutkan exercise JQuery. sejauh ini tidak ada kendala dan semuanya terasa cukup gampang.
 
-**Link to Work(s) :** -
+**Link to Work(s) :** 
+- [Instalasi JQuery dan Animate CSS serta Penggunaan Dasar](./resources/jquery-animate-intro.md)
