@@ -5,3 +5,9 @@
 **Link to Work(s) :**
 - [Using FontAwesome](./resources/using-fa.md)
 - [Bootstrap's Grid System](./resources/bootstrap-grid.md)
+
+## Day 2: April 28th, 2024
+
+**Today's Progress :** saya telah menyelesaikan exercise Bootstrap di freecodecamp, dan sekarang sedang melanjutkan exercise JQuery. sejauh ini tidak ada kendala dan semuanya terasa cukup gampang.
+
+**Link to Work(s) :** -
