@@ -12,3 +12,10 @@
 
 **Link to Work(s) :** 
 - [Instalasi JQuery dan Animate CSS serta Penggunaan Dasar](./resources/jquery-animate-intro.md)
+
+## Day 3: May 1st, 2024
+
+**Today's Progress :** learn how to handle html using jquery methods, like `html()`, `removeClass()`, etc
+
+**Link to Work(s) :**
+- [JQuery Part 2](./resources/jquery2.md)
