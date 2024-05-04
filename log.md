@@ -19,3 +19,8 @@
 
 **Link to Work(s) :**
 - [JQuery Part 2](./resources/jquery2.md)
+
+# Day 4: May 5th, 2024
+**Today's Progress :** currently learning java by using resources from University of Helsinki, Java Programming MOOC at https://java-programming.mooc.fi . for this course, i need to use netbeans TMC (TestMyCode). but, it looks like it doesn't work for me. so, i installed the TMC CLI client and use it in the terminal. and it works!. i also started to doing some easy exercise on this MOOC.
+
+**Link to Work(s) :**
