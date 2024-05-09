@@ -29,3 +29,8 @@
 **Today's Progress :** i finished the exercises on JQuery - Front end Development Libraries from freecodecamp. it's not a big problem, really. i will continue my work on learning SASS, still in the same curriculum, Front end Development Libraries. 
 
 **Link to Work(s) :**
+
+## Day 6: May 9th, 2024
+**Today's Progress :** i learn a lot about how to assign value in SASS, how to do for loop and while loop. at first, i'm a little bit confusing with this concept, but as i go along, i realize that this is just a simple matter.
+
+**Link to Work(s) :**
