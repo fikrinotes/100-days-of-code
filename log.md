@@ -34,3 +34,8 @@
 **Today's Progress :** i learn a lot about how to assign value in SASS, how to do for loop and while loop. at first, i'm a little bit confusing with this concept, but as i go along, i realize that this is just a simple matter.
 
 **Link to Work(s) :**
+
+## Day 7: May 11th, 2024
+**Today's Progress :** i've complete the SASS challenge in fCC. for the next part, i learn about react JS. i think it's just like regular javascript code, but it don't. i'm so confused now. fCC - the platform where i learn about react - doesn't show me the structure of the react and how it integrates with JSX. for example, i don't know in which file was the code should be placed. is it a `js` file? or a `jsx` file? or even a `.html` file? should i install some dependencies? how to use that? there a lot of things that i don't know yet.
+
+**Link to Work(s) :**
