@@ -1,5 +1,6 @@
-## Day 1: May 26th, 2024
+## Day 1: May 30th, 2024
 
-**Today's Progress :** Learn about JSX, react components, and also composing react component. so, react component can exist with the form of functional component or ES6 class component. if we already create a react component, we can call it to render in another component by typing `<ComponentsName />`.
+**Today's Progress :** learn about react props type and override the default props. it's easy
 
 **Link to Work(s) :**
+
