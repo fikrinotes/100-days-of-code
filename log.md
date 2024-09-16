@@ -22,3 +22,11 @@
 
 **Work(s) :**
 ![image](https://github.com/user-attachments/assets/296cf3ea-e679-4068-a4a4-9f198f0558fb)
+
+## Day 5: August 16th, 2024
+
+**Today's Progress :**  sadly, i only done 2 task at freecodecamp this day. but, i learn a lot. i learn how to keep track of input value as a state in react and how to handle DOM events using functions. before this day, i don't really understand the mechanism of calling a function for handling events in HTML, such as using `onClick` or `onChange` property.
+
+**Work(s) :**
+![image](https://github.com/user-attachments/assets/867790a9-8355-49dd-8aa9-148f9a28d61e)
+
