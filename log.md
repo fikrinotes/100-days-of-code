@@ -30,7 +30,7 @@
 **Work(s) :**
 ![image](https://github.com/user-attachments/assets/867790a9-8355-49dd-8aa9-148f9a28d61e)
 
-## Day 6: Sept 16th, 2024
+## Day 6: Sept 17th, 2024
 
 **Today's Progress :** same thing as before... just completed 2 more challenges at freecodecamp front end developer path. it's hard to learn coding at night! for the next time, maybe i should try to work on evening.
 **Work(s) :**
