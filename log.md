@@ -34,3 +34,11 @@
 
 **Today's Progress :** same thing as before... just completed 2 more challenges at freecodecamp front end developer path. it's hard to learn coding at night! for the next time, maybe i should try to work on evening.
 **Work(s) :**
+
+## Day 7: Sept 19th, 2024
+
+**Today's Progress :** learn how to pass state and methods of parent component to child component in react. isn't hard tho. The theory is that, if we want t pass state and methods of parent component to it's child, just pass it as props of the child.
+
+**Work(s) :**
+![image](https://github.com/user-attachments/assets/a0040880-8168-4563-8227-69f389a23a24)
+
