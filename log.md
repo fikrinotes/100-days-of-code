@@ -42,3 +42,9 @@
 **Work(s) :**
 ![image](https://github.com/user-attachments/assets/a0040880-8168-4563-8227-69f389a23a24)
 
+## Day 8: Sept 22th, 2024
+
+**Today's Progress :** Learn about react componen lifecycle and lifecycle hooks. at first, i don't know what it mean by "mounted". and surprisingly, it just a cool name for "rendered".  
+
+**Work(s) :**
+![image](https://github.com/user-attachments/assets/b62ab6cd-5f99-4628-b0f6-10574e1c9ec4)
