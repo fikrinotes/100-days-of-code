@@ -48,3 +48,9 @@
 
 **Work(s) :**
 ![image](https://github.com/user-attachments/assets/b62ab6cd-5f99-4628-b0f6-10574e1c9ec4)
+
+## Day 9: Sept 23th, 2024
+
+**Today's Progress :** this day i've got a real hands-on web development process using react. first of all, i tried to install react js with next js framework. but it's not easy because it goes to fail for the first try. after aproximately 1 hour, i'm successfully installed react and next js.
+
+**Work(s) :**
