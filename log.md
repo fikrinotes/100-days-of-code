@@ -54,3 +54,11 @@
 **Today's Progress :** this day i've got a real hands-on web development process using react. first of all, i tried to install react js with next js framework. but it's not easy because it goes to fail for the first try. after aproximately 1 hour, i'm successfully installed react and next js.
 
 **Work(s) :**
+
+## Day 10: Sept 25th, 2024
+
+**Today's Progress :** trying to apply my knowledge of react in react's framework, nextJS. but, it's not working, and i still don't know why. i'm confuse...
+
+**Work(s) :**
+![image](https://github.com/user-attachments/assets/05048df1-414e-4fd4-9b48-f3754edc96a0)
+
