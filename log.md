@@ -62,3 +62,8 @@
 **Work(s) :**
 ![image](https://github.com/user-attachments/assets/05048df1-414e-4fd4-9b48-f3754edc96a0)
 
+## Day 11: Sept 26th, 2024
+
+**Today's Progress :** same thing as before, i want to get hands-on experience on how to build a fully react app by using Next JS. it is not obvious before about how to run the react server. i've read all react documentation and i found nothing. is there something i left? i don't know
+
+**Work(s) :**
