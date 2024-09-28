@@ -67,3 +67,9 @@
 **Today's Progress :** same thing as before, i want to get hands-on experience on how to build a fully react app by using Next JS. it is not obvious before about how to run the react server. i've read all react documentation and i found nothing. is there something i left? i don't know
 
 **Work(s) :**
+
+## Day 12: Sept 28th, 2024
+
+**Today's Progress :** there's nothing special, just regular practice on freecodecamp challenge. i learn advance react syntax and method. how to do conditional display, sending data, etc
+
+**Work(s) :**
