@@ -73,3 +73,9 @@
 **Today's Progress :** there's nothing special, just regular practice on freecodecamp challenge. i learn advance react syntax and method. how to do conditional display, sending data, etc
 
 **Work(s) :**
+
+## Day 12: Sept 29th, 2024
+
+**Today's Progress :** same things as before, there's nothing special. so far, i'm a little bit confusing with freeCodeCamp Course on react. i think it's not either teaching the concept of react nor the implementation of react by building a project. there's so much missing step on how to build react project in this course. i mean, even if i completed this single course only, i think i still cannot build any website using react framework. that's because, when we're working on the challenges, there's some code that we don't know where is these code come from, it's already there. we are just fill in the blank space. i think it's not the correct way to learn how to code. freecodecamp is also not teaching the file structure of react project, so if we want to build a new react app on our own, we don't know where to start. but, above all that, i will complete this course. even if i the course in react official website itself is more helpful for learning react than the freecodecamp course.
+
+**Work(s) :**
