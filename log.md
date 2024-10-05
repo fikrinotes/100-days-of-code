@@ -85,3 +85,8 @@
 **Today's Progress :** just another easy challenge on freecodecamp
 
 **Work(s) :**
+
+## Day 14: Oct 5th, 2024
+**Today's Progress :** i'm finishing the freecodecamp challenge on react. at this point, i think i've been familiar with react programming. the only one i need to learn is just building the web from zero fully with react.
+
+**Work(s) :**
