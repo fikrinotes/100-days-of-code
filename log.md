@@ -4,3 +4,5 @@
 
 **Work(s) :**
 - [create a redux store](/resources/create-a-redux-store.txt)
+- [get state from the redux store](/resources/get-state-from-the-redux-store.txt)
+
