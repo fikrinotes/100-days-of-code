@@ -17,3 +17,6 @@
 **Today's Progress :**  this day, i learn how redux update the state. i learn about actions, and how action affect the state via reducer. it's fun!
 
 **Work(s) :**
+- [define a redux action](/resources/redux/define-a-redux-action.js)
+- [define an action creator](/resources/redux/define-an-action-creator.js)
+- [dispatch an action event](/resources/redux/dispatch an action event.js)
