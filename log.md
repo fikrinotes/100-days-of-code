@@ -11,3 +11,9 @@
 **Today's Progress :**  learn about redux action. i don't learn too much bcs im sleepy
 
 **Work(s) :**
+
+## Day 3: November 24th, 2024
+
+**Today's Progress :**  this day, i learn how redux update the state. i learn about actions, and how action affect the state via reducer. it's fun!
+
+**Work(s) :**
