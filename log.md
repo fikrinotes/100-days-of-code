@@ -19,4 +19,4 @@
 **Work(s) :**
 - [define a redux action](/resources/redux/define-a-redux-action.js)
 - [define an action creator](/resources/redux/define-an-action-creator.js)
-- [dispatch an action event](/resources/redux/dispatch an action event.js)
+- [dispatch an action event](/resources/redux/dispatch-an-action-event.js)
