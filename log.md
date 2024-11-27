@@ -20,3 +20,26 @@
 - [define a redux action](/resources/redux/define-a-redux-action.js)
 - [define an action creator](/resources/redux/define-an-action-creator.js)
 - [dispatch an action event](/resources/redux/dispatch-an-action-event.js)
+
+## Day 4: November 25th, 2024
+
+**Today's Progress :**  just continue the challenge on freecodecamp course for redux
+
+**Work(s) :** 
+
+## Day 5: November 26th, 2024
+
+**Today's Progress :**  don't learn too much, im tired. but, im just reviewing some of the redux concept that i've learnt before
+
+**Work(s) :**
+
+## Day 6: November 27th, 2024
+
+**Today's Progress :**  i want to learn new concept, but eventually i just reviewing the concept that i've learnt. i'm a lil bit confused by the concept of redux store that hold all state used in the app, and the difference between reducer function and subscribe method that call listener function. but now, i've got it!
+
+**Work(s) :**
+
+
+
+
+
