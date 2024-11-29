@@ -39,7 +39,9 @@
 
 **Work(s) :**
 
+## Day 7: November 29th, 2024
 
+**Today's Progress :**  this day i work on freecodecamp redux course about `combineReducers` method. this method is used to combine multiple reducers when we have that to split problem (multiple state in state tree and organize it by using multiple reducers).  we combine it to become root reducer by using `combineReducers`. am i wrong?. oh yeah, i skip the challenge on November 28th, 2024. 
 
-
+**Work(s) :**
 
