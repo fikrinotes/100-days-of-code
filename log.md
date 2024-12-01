@@ -45,3 +45,8 @@
 
 **Work(s) :**
 
+## Day 8: November 30th, 2024
+
+**Today's Progress :**  this day i work on freecodecamp redux course and learn more about combining reducers and subscribe method. actually, im not doing many exercises this day
+
+**Work(s) :**
