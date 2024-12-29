@@ -5,3 +5,10 @@ today is the last try for me doing #100daysofcode. i will not lose again. for th
 
 **Work(s) :**
 - [Combining Reducers](/resources/CombiningReducers.md)
+
+## Day 2 : December 29, 2024
+
+**Today's Progress :**  
+learn how to send data using action in redux. it's easy. the hard part is the next materials. That is, how to handle asynchronous action. i still don't really understand the concept behind it
+
+**Work(s) :**
