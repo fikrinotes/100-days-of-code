@@ -19,3 +19,18 @@ learn how to send data using action in redux. it's easy. the hard part is the ne
 yeah, i don't do something that much :( i just review the concept of react js and i still don't understand
 
 **Work(s) :**
+
+## Day 4 : January 2, 2025
+
+**Today's Progress :**  
+learn about redux with asynchronous action, and i still don't undertand it very well
+
+**Work(s) :**
+
+## Day 5 : January 4, 2025
+
+**Today's Progress :**  
+horray, after several days, finally i have a solid understanding about handling asynchronous action in redux (hopefully). by the way, it's hard to keep consistent doing this challenge. i've skip one day before (2 times)
+
+**Work(s) :**
+
