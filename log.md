@@ -34,3 +34,10 @@ horray, after several days, finally i have a solid understanding about handling 
 
 **Work(s) :**
 
+## Day 6 : January 5, 2025
+
+**Today's Progress :**  
+create a simple project, called counter by using redux. i think i understand redux now.
+
+**Work(s) :**
+
