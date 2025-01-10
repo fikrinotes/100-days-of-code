@@ -21,4 +21,9 @@ i'm working on freecodecamp challenge on React Redux courses. this challenge bui
 - [manage state locally first - freeCodeCamp](/resources/manage-state-locally-first.js)
 - [extract state logic to redux - freeCodeCamp](/resources/extract-state-logic-to-redux.js)
 
+**Today's Progress :**  
+learning how to connect react with redux. it really simple. to connect react app with redux, we use something called `Provider` and `connect`. 
+
+**Work(s) :**
+
 
