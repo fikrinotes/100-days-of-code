@@ -21,9 +21,23 @@ i'm working on freecodecamp challenge on React Redux courses. this challenge bui
 - [manage state locally first - freeCodeCamp](/resources/manage-state-locally-first.js)
 - [extract state logic to redux - freeCodeCamp](/resources/extract-state-logic-to-redux.js)
 
+## Day 4 : January 10, 2025
+
 **Today's Progress :**  
 learning how to connect react with redux. it really simple. to connect react app with redux, we use something called `Provider` and `connect`. 
 
 **Work(s) :**
+
+*i skip 1 day at January 11, 2025*
+
+## Day 5 : January 12, 2025
+
+**Today's Progress :**  
+continuing the last lesson, i learn how to connect react and redux. this day, i'm learning about `mapStateToProps()` function and how to use it. also, i review my materials on redux thunk middleware because i'm a lil bit confusing.
+
+**Work(s) :**
+- [map states to props](https://github.com/fikrinotes/100-days-of-code/blob/master/resources/map-state-to-props.js)
+
+
 
 
