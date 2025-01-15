@@ -38,6 +38,28 @@ continuing the last lesson, i learn how to connect react and redux. this day, i'
 **Work(s) :**
 - [map states to props](https://github.com/fikrinotes/100-days-of-code/blob/master/resources/map-state-to-props.js)
 
+## Day 6 : January 13, 2025
+
+**Today's Progress :**  
+i learn about `mapDispatchToProps()` funcion. it is the function that maps an action as a props.
+
+**Work(s) :**
+
+## Day 7 : January 14, 2025
+
+**Today's Progress :**  
+as i learn how to connect react app and reduxx before, now i learn how to get the related state and action i need to perform update for redux store from react app.
+
+**Work(s) :**
+
+## Day 8 : January 15, 2025
+
+**Today's Progress :**  
+this day starts with working on several freecodecamp challenges. this challenges help me build a solid understanding of react-redux workflow. 
+
+**Work(s) :**
+
+
 
 
 
