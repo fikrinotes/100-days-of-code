@@ -59,6 +59,15 @@ this day starts with working on several freecodecamp challenges. this challenges
 
 **Work(s) :**
 
+*i skip 1 day at January 16, 2025*
+
+## Day 9 : January 17, 2025
+
+**Today's Progress :**  
+i don't doing so much, today. it's just finishing freecodecamp challenge on front end development library and then start the projects. i'm a lil bit bussy bcs of my final projects at college.
+
+**Work(s) :**
+
 
 
 
