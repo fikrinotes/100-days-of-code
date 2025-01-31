@@ -68,6 +68,96 @@ i don't doing so much, today. it's just finishing freecodecamp challenge on fron
 
 **Work(s) :**
 
+## Day 10 : January 18, 2025
+
+**Today's Progress :**  
+read the documentation for my projects at freecodecamp and then working on several task for this project. it's easy, huh!
+
+**Work(s) :**
+
+## Day 11 : January 19, 2025
+
+**Today's Progress :**  
+working on freecodecamp projects, making a quotes generator app.
+
+**Work(s) :**
+
+*i skip 1 day at January 20, 2025*
+
+## Day 12 : January 21, 2025
+
+**Today's Progress :**  hey, my project is almost done! i just have to adjust style for my website. i plan to use bootstrap for this task. 
+
+**Work(s) :**
+
+## Day 13 : January 22, 2025
+
+**Today's Progress :**  
+hey, i've completed the first project for freecodecamp front end development certification
+
+**Work(s) :**
+
+## Day 14 : January 23, 2025
+
+**Today's Progress :**  
+hey buddy! i'm not doing anything great now. just set up my environment to work with
+
+**Work(s) :**
+
+**Work(s) :**
+
+## Day 15 : January 24, 2025
+
+**Today's Progress :**  
+review the materials on how to use react component!
+
+**Work(s) :**
+
+## Day 16 : January 25, 2025
+
+**Today's Progress :**  
+trying to use react component for my projects at freecodecamp - creating a markdown reviewer.
+
+**Work(s) :**
+
+## Day 17 : January 26, 2025
+
+**Today's Progress :**  
+i'm succesfully use react component for my project - creating a markdown reviewer. but, it still doesn't render any markdown yet, instead it is rendering plain text.
+
+**Work(s) :**
+
+## Day 18 : January 27, 2025
+
+**Today's Progress :**  
+in order to render markdown, we can use `marked.js`, a js library for rendering markdown string. i've read the documentation, but it's still not working.
+
+**Work(s) :**
+
+## Day 19 : January 28, 2025
+
+**Today's Progress :**  
+i've followed the documentation. it was said that we can use `marked.parse()` method, but it is not working. there are other alternative i found from gemini AI and stack overflow, but none of them were worked.
+
+**Work(s) :**
+
+## Day 20 : January 29, 2025
+
+**Today's Progress :**  
+it'is working now. the problem is that i use react, and when i use react & marked.js, the `marked.parsed()` result is considered as promises object coming from an asyncrhonous process instead of a string. that's why we need to treat it as an asynchronous process. i'm success :)
+
+**Work(s) :**
+
+## Day 21 : January 30, 2025
+
+**Today's Progress :**  
+hey! it's not done yet :( altough i can get the result, i stil can't take it off from the asynchronous function and bring it to another function in order to ready to use. it's frustrating!
+
+**Work(s) :**
+
+*i skip 1 day at January 31, 2025*
+
+
 
 
 
